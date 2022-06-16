@@ -257,4 +257,7 @@ function showReview() {
 ```
 다 사용한 파일들은 즉시 지워주기
 ```  
-
+* PyMongo 활용
+```
+정렬하여 가져오기: find().sort('value', 1은 ascending, 0은 descending)
+```
