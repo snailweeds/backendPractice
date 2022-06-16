@@ -434,7 +434,7 @@ function showArticles() {
 }
 ```
 * 완성/확인
-
+***
 # MovieStar
 > DB 만들기 : 데이터 쌓기 (init_db.py)
 1) 사용할 데이터를 웹 스크래핑해서, 2) 데이터베이스에 저장(insert_all())
